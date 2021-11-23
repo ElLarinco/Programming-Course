@@ -23,15 +23,13 @@
 ### CAP 3 - RUTAS
 
 **1. Tipos de datos:**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;String, Number, Boolean, Array, Object, etc...
+String, Number, Boolean, Array, Object, etc...
 
 **2. Variables:**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Espacio en la memoria para guardar datos de un tipo
+Espacio en la memoria para guardar datos de un tipo
 
 **3. Operadores:**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aritméticos (+, -, *, /)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comparativos (==, !=, <, >)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lógicos (and, or, not)
+Aritméticos (+, -, *, /), Comparativos (==, !=, <, >), Lógicos (and, or, not)
 
 **4. Casting:**
 
