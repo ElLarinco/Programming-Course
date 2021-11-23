@@ -20,15 +20,15 @@
 
 - **Algoritmos**: Conjunto de pasos que describen el proceso para solucionar un problema específico
 
-Características de Algoritmos:
+- Características de Algoritmos:
 
 **Ordenado, Definido, Finito**
 
-Tipos de Algoritmos:
+- Tipos de Algoritmos:
 
 **Cualitativos (calidad - el cómo), Cuantitativos (cantidad - operaciones, fórmulas y datos), Cotidiano (común)**
 
-Fases del ciclo de vida de un software:
+- Fases del ciclo de vida de un software:
 
 **1. Identificar el problema**
 
@@ -89,5 +89,4 @@ Código de imitación para expresar y explicar el algoritmo
 
 ### CAP 6 - DIAGRAMAS DE FLUJO
 
-**1. Definición:**
-Son el reflejo de los procesos que toma el programa
+**Son el reflejo de los procesos que toma el programa**
