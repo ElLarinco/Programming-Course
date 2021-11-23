@@ -18,7 +18,23 @@
 
 - **Lenguajes Interpretados**: Usan el intérprete para traducir el código a lenguaje máquina oero línea a línea ejecuta el programa
 
-- **Algoritmos**: Conjunto de código que permite realizar una tarea
+- **Algoritmos**: Conjunto de pasos que describen el proceso para solucionar un problema específico
+
+Características de Algoritmos:
+
+**Ordenado, Definido, Finito**
+
+Tipos de Algoritmos:
+
+**Cualitativos (calidad - el cómo), Cuantitativos (cantidad - operaciones, fórmulas y datos), Cotidiano (común)**
+
+Fases del ciclo de vida de un software:
+
+**1. Identificar el problema**
+
+**2. Diseñar el algoritmo en diagramas de flujo o pseudocódigo**
+
+**3. Escribir, testear y validar el código**
 
 ### CAP 3 - BASES
 
@@ -61,3 +77,17 @@ Se pueden desarrollar de forma nativa (Java) o de forma híbrida (HTML, CSS y JS
 
 **3. Bases de Datos:**
 Sirven para almacenar y controlar datos en formato SQL o NOSQL
+
+### CAP 5 - PSEUDOCÓDIGO
+
+**1. Definición:**
+Código de imitación para expresar y explicar el algoritmo
+
+**2. Características:**
+- Es explicativo
+- Facilita el paso del programa al lenguaje
+
+### CAP 6 - DIAGRAMAS DE FLUJO
+
+**1. Definición:**
+Son el reflejo de los procesos que toma el programa
