@@ -53,3 +53,47 @@ def pseudocode3(radio, height):
     print(f"Volumen: {Volume}")
 
 #pseudocode3(2, 4)
+
+numbers = [1,2,3,4,5,6,7]
+
+def plus_numbers(list):
+    even = 0
+    odd = 0
+    for n in list:
+        if n % 2 == 0:
+            even += n
+        else:
+            odd += n
+    print(f"Pares: {even}")
+    print(f"Impares: {odd}")
+
+#plus_numbers(numbers)
+
+def validate(message):
+    while True:
+        try:
+            data = float(input(message))
+            return data
+        except ValueError:
+            print("El data debe ser un número")
+
+def checkZeroDivision(num1, num2):
+    if num2 == 0:
+        return 0
+    else:
+        return num1 / num2
+
+def question():
+    largo = validate("Largo en metros: ")
+    ancho = validate("Ancho en metros: ")
+    m2Xcaja = validate("Metros cuadrados por caja: ")
+    precioXm2 = validate("Precio por metro cuadrado: ")
+
+    precioXcaja = (m2Xcaja * precioXm2)
+    m2Cuarto = largo * ancho
+    #cajas = m2Cuarto / m2Xcaja
+    cajas = checkZeroDivision(m2Cuarto, m2Xcaja)
+    precioTotal = cajas * precioXcaja
+
+    print(f"Total de cajas que se necesitan {cajas}")
+    print(f"Precio total: {precioTotal}")

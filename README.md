@@ -90,3 +90,53 @@ Código de imitación para expresar y explicar el algoritmo
 ### CAP 6 - DIAGRAMAS DE FLUJO
 
 **Son el reflejo de los procesos que toma el programa**
+
+### CAP 7 - LENGUAJES INFORMÁTICOS
+
+**Lenguajes de Programación**
+Se asemejan al lenguaje humano que permite la comunicación con una máquina como Assembly
+
+**Lenguajes de Consultas**
+Se usan para ejecutar una serie de comandos como SQL
+
+**Lenguajes de Marcado**
+Se usan para codificar un documento como HTML
+
+**Lenguajes de Hojas de Estilo**
+Se usan para la presentación de un documento como CSS
+
+### CAP 7 - SINTAXIS DE LOS LENGUAJES DE PROGRAMACIÓN
+
+**Identificadores**
+Identifica a una variable, función, etc...
+
+**Tipos de Datos**
+String, Number, etc...
+
+**Palabras Reservadas**
+Palabras que utiliza el lenguaje en cuestión
+
+**Sentencia**
+Orden al programa para realizar una tarea
+
+**Bloque de Código**
+Conjunto de sentencias
+
+**Comentarios**
+No afectan al código, se usan para explicar la funcionalidad del código
+
+**Operadores**
+Se dividen en Unarios, Binarios y Ternarios
+
+**Operandos**
+Se dividen en el primer número, segundo número, etc...
+
+### CAP 7 - METODOLOGÍA PARA LA SOLUCIÓN DE PROBLEMAS ENFOCADA A LA CREACIÓN DE SOFTWARE
+
+**Etapas**
+- Definición del problema
+- Análisis del problema
+- Desarrollo de algoritmos
+- Codificación y documentación
+- Prueba y depuración
+- Mantenimiento
