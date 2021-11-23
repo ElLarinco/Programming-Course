@@ -22,19 +22,19 @@
 
 - Características de Algoritmos:
 
-**Ordenado, Definido, Finito**
+-**Ordenado, Definido, Finito**
 
 - Tipos de Algoritmos:
 
-**Cualitativos (calidad - el cómo), Cuantitativos (cantidad - operaciones, fórmulas y datos), Cotidiano (común)**
+-**Cualitativos (calidad - el cómo), Cuantitativos (cantidad - operaciones, fórmulas y datos), Cotidiano (común)**
 
 - Fases del ciclo de vida de un software:
 
-**1. Identificar el problema**
+-**1. Identificar el problema**
 
-**2. Diseñar el algoritmo en diagramas de flujo o pseudocódigo**
+-**2. Diseñar el algoritmo en diagramas de flujo o pseudocódigo**
 
-**3. Escribir, testear y validar el código**
+-**3. Escribir, testear y validar el código**
 
 ### CAP 3 - BASES
 
