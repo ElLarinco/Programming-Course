@@ -6,19 +6,19 @@
 
 ### CAP 2 - TIPOS DE LENGUAJES y CARACTERÍSTICAS
 
-- Definición: Puente de comunicación entre persona y computadora
+- **Definición**: Puente de comunicación entre persona y computadora
 
-- Compilador o Intérprete: Traduce el lenguaje escrito a 0 y 1
+- **Compilador e Intérprete**: Traduce el lenguaje escrito a 0 y 1
 
-- Alto nivel: Se asemejan al lenguaje inglés
+- **Alto nivel**: Se asemejan al lenguaje inglés
 
-- Bajo nivel: Se asemejan al lenguaje máquina
+- **Bajo nivel**: Se asemejan al lenguaje máquina
 
-- Lenguajes Compilados: Usan el compilador para traducir el código a lenguaje máquina, en busca de fallos, antes de ejecutar el programa
+- **Lenguajes Compilados**: Usan el compilador para traducir el código a lenguaje máquina, en busca de fallos, antes de ejecutar el programa
 
-- Lenguajes Interpretados: Usan el intérprete para traducir el código a lenguaje máquina oero línea a línea ejecuta el programa
+- **Lenguajes Interpretados**: Usan el intérprete para traducir el código a lenguaje máquina oero línea a línea ejecuta el programa
 
-- Algoritmos: Conjunto de código que permite realizar una tarea
+- **Algoritmos**: Conjunto de código que permite realizar una tarea
 
 ### CAP 3 - RUTAS
 
