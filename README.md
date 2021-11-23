@@ -22,18 +22,23 @@
 
 ### CAP 3 - RUTAS
 
-1. Tipos de datos:
+**1. Tipos de datos:**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;String, Number, Boolean, Array, Object, etc...
 
-2. Variables:
+**2. Variables:**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Espacio en la memoria para guardar datos de un tipo
 
-3. Operadores:
+**3. Operadores:**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aritméticos (+, -, *, /)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comparativos (==, !=, <, >)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lógicos (and, or, not)
 
-4. Casting:
+**4. Casting:**
 
-5. Arrays:
+**5. Arrays:**
 
-6. Funciones:
+**6. Funciones:**
 
-7. Ciclos:
+**7. Ciclos:**
 
 ### CAP 4 - BASES
