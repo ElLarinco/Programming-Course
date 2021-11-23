@@ -20,7 +20,7 @@
 
 - **Algoritmos**: Conjunto de código que permite realizar una tarea
 
-### CAP 3 - RUTAS
+### CAP 3 - BASES
 
 **1. Tipos de datos:**
 String, Number, Boolean, Array, Object, etc...
@@ -32,11 +32,32 @@ Espacio en la memoria para guardar datos de un tipo
 Aritméticos (+, -, *, /), Comparativos (==, !=, <, >), Lógicos (and, or, not)
 
 **4. Casting:**
+Conversión de tipos
 
 **5. Arrays:**
+Colecciones de datos
 
 **6. Funciones:**
+Conjunto de código para realizar una tarea específica
 
 **7. Ciclos:**
+Sirven para realizar una tarea una cantidad de veces definida (for) o indefinida (while)
 
-### CAP 4 - BASES
+
+### CAP 4 - RUTAS
+
+**1. Paradigmas:**
+Convenciones de cada lenguaje como orientada a objetos, funcional, procedural, etc...
+
+**2. Desarrollo web:**
+Poseen frontend (cliente) y backend (servidor)
+
+**3. Desarrollo móvil:**
+Se pueden desarrollar de forma nativa (Java) o de forma híbrida (HTML, CSS y JS)
+
+**4. Librerías y Frameworks:**
+- Librerías: Complemento para el desarrollo del programa
+- Frameworks: Permiten trabajar con una estructura enfocada al desarrollo inmediato del programa
+
+**3. Bases de Datos:**
+Sirven para almacenar y controlar datos en formato SQL o NOSQL
