@@ -105,7 +105,7 @@ Se usan para codificar un documento como HTML
 **Lenguajes de Hojas de Estilo**
 Se usan para la presentación de un documento como CSS
 
-### CAP 7 - SINTAXIS DE LOS LENGUAJES DE PROGRAMACIÓN
+### CAP 8 - SINTAXIS DE LOS LENGUAJES DE PROGRAMACIÓN
 
 **Identificadores**
 Identifica a una variable, función, etc...
@@ -131,7 +131,7 @@ Se dividen en Unarios, Binarios y Ternarios
 **Operandos**
 Se dividen en el primer número, segundo número, etc...
 
-### CAP 7 - METODOLOGÍA PARA LA SOLUCIÓN DE PROBLEMAS ENFOCADA A LA CREACIÓN DE SOFTWARE
+### CAP 9 - METODOLOGÍA PARA LA SOLUCIÓN DE PROBLEMAS ENFOCADA A LA CREACIÓN DE SOFTWARE
 
 **Etapas**
 - Definición del problema
@@ -140,3 +140,7 @@ Se dividen en el primer número, segundo número, etc...
 - Codificación y documentación
 - Prueba y depuración
 - Mantenimiento
+
+### CAP 10 - PARADIGMAS DE PROGRAMACIÓN
+
+- Forma o estilo de programación como orientada a objetos, funcional, etc...
